@@ -1,6 +1,6 @@
 # Netflix UI Clone
 
-Welcome to the **Netflix UI Clone** project! This project replicates the user interface of Netflix, providing an immersive and familiar experience.
+Welcome to the **Netflix UI Clone** project! This project replicates the user interface of Netflix using pure HTML, CSS and JavaScript, providing an immersive and familiar experience.
 
 ## Features
 - **Responsive Layout:** Adapts seamlessly to different devices and screen sizes.
@@ -14,8 +14,8 @@ To explore this project, follow these steps:
 3. **Run the project:** `npm start`
 
 ## Technologies Used
-- **React**
-- **Tailwind CSS**
+- **HTML**
+- **CSS**
 - **JavaScript**
 
 Feel free to contribute or explore further!
